@@ -4,4 +4,8 @@
 
 **2-) Run maven command to execute integration test and connect to postgresql database from spring boot application.**
 
-> mvn clean install
+D:\DEV\IntelliJProjects\spring-boot-postgresql-datasource-config> **.\mvnw.cmd clean install**
+
+[INFO] ------------------------------------------------------------------------<br/>
+[INFO] BUILD SUCCESS<br/>
+[INFO] ------------------------------------------------------------------------<br/>
