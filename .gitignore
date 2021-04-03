@@ -23,3 +23,14 @@
 hs_err_pid*
 /target/
 /.idea/
+
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/.jpb/jpb-settings.xml
